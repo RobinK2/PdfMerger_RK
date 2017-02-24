@@ -9,7 +9,9 @@ http://www.microsoft.com/en-us/download/details.aspx?id=17851
 Instructions:
 
 1. Click "Open" to choose the pdf source to merge.
-2. To select specific range of pages, select the file in the list box and choose option "Set Page Specific Range".
+2. Open the files in the order you want to merge them. (The highest file in the list box will be the first pages
+   in the output file)
+3. To select specific range of pages, select the file in the list box and choose option "Set Page Specific Range".
    Specify the range in "Start Page" and "End Page" boxes that will appear.
-3. Click on "Merge"-button to start the merge. A dialog box will appear where the user can choose path and file name
+4. Click on "Merge"-button to start the merge. A dialog box will appear where the user can choose path and file name
    of the output file. 
